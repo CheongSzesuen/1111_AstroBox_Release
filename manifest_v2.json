@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "1111",
+    "restype": "quick_app",
+    "name": "111",
+    "description": "1234567",
+    "preview": [
+      "head@1x.png",
+      "icon.png",
+      "review-band-about.png"
+    ],
+    "icon": "icon.png",
+    "cover": "head@1x.png",
+    "author": [
+      {
+        "name": "CheongSzesuen",
+        "bindABAccount": true,
+        "author_url": "12345"
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "123456",
+      "url": "https://localhost:5173/cc/publish"
+    }
+  ],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+    }
+  },
+  "ext": {}
+}
